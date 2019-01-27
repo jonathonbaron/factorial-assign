@@ -1,6 +1,6 @@
 {
   "name": "@jonathonbaron/factorial-assign",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Implements highly factorial randomization.",
   "author": "Jonathon Baron <jonathon.baron@yale.edu> (https://jonathonbaron.github.io/)",
   "license": "GPL-3.0",
