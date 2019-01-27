@@ -1,0 +1,39 @@
+{
+  "name": "@jonathonbaron/factorial-assign",
+  "version": "1.0.0",
+  "description": "Implements highly factorial randomization.",
+  "author": "Jonathon Baron <jonathon.baron@yale.edu> (https://jonathonbaron.github.io/)",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathonbaron/factorial_code.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "factorial",
+    "qualtrics",
+    "vignette",
+    "randomization",
+    "package",
+    "jonathonbaron"
+  ],
+  "devDependencies": {
+    "codecov": "^3.1.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0",
+    "nyc": "^12.0.2"
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/jonathonbaron/factorial_code/issues"
+  },
+  "homepage": "https://github.com/jonathonbaron/factorial_code#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
